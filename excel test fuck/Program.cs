@@ -23,13 +23,7 @@ namespace excel_test_fuck
                 try
                 {
                     object[,] data2 = excel.Readrange(6, i, 12, i);
-                    Console.WriteLine(data2[1, 1]);
-                    Console.WriteLine(data2[2 ,1]);
-                    Console.WriteLine(data2[ 3,1]);
-                    Console.WriteLine(data2[4,1]);
-                    Console.WriteLine(data2[5, 1]);
-                    Console.WriteLine(data2[6, 1]);
-                    Console.WriteLine(data2[7, 1]);
+
                     Console.WriteLine("成功"+i);
                     i++;
                 }
