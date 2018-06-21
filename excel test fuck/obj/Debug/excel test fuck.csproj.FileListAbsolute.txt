@@ -1,0 +1,8 @@
+c:\users\johnny\source\repos\excel test fuck\excel test fuck\bin\Debug\excel test fuck.exe.config
+c:\users\johnny\source\repos\excel test fuck\excel test fuck\bin\Debug\excel test fuck.exe
+c:\users\johnny\source\repos\excel test fuck\excel test fuck\bin\Debug\excel test fuck.pdb
+c:\users\johnny\source\repos\excel test fuck\excel test fuck\obj\Debug\excel test fuck.csprojResolveAssemblyReference.cache
+c:\users\johnny\source\repos\excel test fuck\excel test fuck\obj\Debug\excel test fuck.csproj.ResolveComReference.cache
+c:\users\johnny\source\repos\excel test fuck\excel test fuck\obj\Debug\excel test fuck.csproj.CoreCompileInputs.cache
+c:\users\johnny\source\repos\excel test fuck\excel test fuck\obj\Debug\excel test fuck.exe
+c:\users\johnny\source\repos\excel test fuck\excel test fuck\obj\Debug\excel test fuck.pdb
